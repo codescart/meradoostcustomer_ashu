@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427262992422",
+    "project_id": "meradoost-ba7ef",
+    "storage_bucket": "meradoost-ba7ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427262992422:android:c7b1ef9ad0279ee034c6e7",
+        "android_client_info": {
+          "package_name": "com.foundercodes.meradoostcustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427262992422-aeoeljgc0j4r35u3emk1nklq9kbplj4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmPQXLomcnPwxuCDLOI3HBVawkAKZ559g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427262992422-aeoeljgc0j4r35u3emk1nklq9kbplj4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
